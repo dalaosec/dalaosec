@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning VUE
 - 💞️ I’m looking to collaborate on abord members
-- 📫 You reach me Github
+- 📫 You reach me via Github
 
 <!---
 dalaosec/dalaosec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
