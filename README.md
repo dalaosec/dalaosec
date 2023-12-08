@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dalaosec
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning VUE
 - 💞️ I’m looking to collaborate on abord members
-- 📫 How to reach me Github
+- 📫 You reach me Github
 
 <!---
 dalaosec/dalaosec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
